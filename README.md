@@ -1,14 +1,14 @@
 # Marketing Mix Modelling (MMM) – Media Spend vs Sales Analysis
 
 ## Project Description
-This project applies **Marketing Mix Modelling (MMM)** techniques to estimate the impact of different media channels on sales.  
+This project applies Marketing Mix Modelling (MMM) techniques to estimate the impact of different media channels on sales.  
 Using regression and machine learning models, we decompose sales contributions, estimate **ROI by channel**, and provide actionable **budget allocation recommendations**.
 
 ---
 
 ## Project Objectives
 - Analyse the effect of **TV, Radio, Digital, Print, and OOH** channels on sales revenue.  
-- Identify **high ROI channels** and those with diminishing returns.  
+- Identify high ROI channels and those with diminishing returns.  
 - Build **predictive models** to forecast sales based on spend patterns.  
 - Provide **strategic recommendations** for marketing budget allocation.  
 
