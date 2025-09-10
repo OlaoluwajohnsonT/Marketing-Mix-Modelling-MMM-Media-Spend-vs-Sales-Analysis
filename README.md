@@ -24,7 +24,7 @@ Using regression and machine learning models, we decompose sales contributions, 
 
 ---
 
-## ethodology
+## Methodology
 
 1. **Data Preparation**  
    - Handle outliers and missing values  
